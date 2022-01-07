@@ -11,6 +11,6 @@ You can click the Preview link to take a look at your changes.
 
 
 ### Courses:
-1. Curso de Python do ZERO ao DS
+1. Python Course from ZERO to DS
     - Link: https://www.youtube.com/playlist?list=PLZlkyCIi8bMprZgBsFopRQMG_Kj1IA1WG
     - Repo:
