@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 
 
 ### Courses:
-1. Python from ZERO to DS
+1. Python from ZERO to DS (*In progress*)
     - Instructor: Meigarom Lopes.
        - Instagram: https://www.instagram.com/meigarom/
        - Linkedin: https://www.linkedin.com/in/meigarom/
